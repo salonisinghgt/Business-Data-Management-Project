@@ -73,6 +73,13 @@ The insights from this analysis can help banks:
 
 ---
 
+## Repository Contents
+- `analysis.ipynb`: Complete end-to-end analysis notebook including data cleaning, EDA, feature engineering, modeling, and exploratory insights.
+- `Final_Report.pdf`: Consolidated project report with structured insights, interpretations, and recommendations.
+- `Final_Presentation.pptx`: Executive-style summary of key findings and business recommendations.
+
+---
+
 ## Author
 Saloni Singh  
 IIT Madras – Data Science  
