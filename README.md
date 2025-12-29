@@ -54,14 +54,17 @@ Identify who to target, when to target, and how to optimize outreach to maximize
 - Customers aged 30–44 underperform due to higher financial liabilities  
 - March, September, October, and December show the highest conversion rates  
 
+
 ---
 
-## Business Impact
-The insights from this analysis can help banks:
-- Prioritize high-return customer segments  
-- Optimize campaign timing and resource allocation  
-- Design segment-specific messaging strategies  
-- Reduce wasted outreach and improve telemarketing ROI  
+## Strategic Recommendations
+Based on segmentation and model outputs, the analysis led to the following business recommendations:
+
+- Prioritize high-conversion customer segments such as senior customers (60+), students, highly educated individuals, and customers with prior campaign success
+- Optimize campaign timing by increasing outreach during high-return months (March, September, October, December) and reducing effort during low-ROI periods
+- Design segment-specific messaging and call strategies, including rapid rapport-building for short calls and A/B testing for borderline segments
+- Introduce flexible, loan-linked, and goal-oriented deposit products to improve engagement among the 30–59 age group
+- Improve data quality and campaign effectiveness through mandatory CRM data capture, predictive lead scoring, and continuous KPI monitoring
 
 ---
 
